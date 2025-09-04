@@ -1,0 +1,26 @@
+# Build & IDE
+target/
+.build/
+.out/
+.classpath
+.project
+.settings/
+.metadata/
+.idea/
+*.iml
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven/Gradle
+.mvn/wrapper/maven-wrapper.jar
+.gradle/
+
+# Node (혹시 있을 경우)
+node_modules/
+
+# Secrets / Keys
+*.pem
+*.env
